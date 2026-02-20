@@ -57,3 +57,11 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 3. Install dependencies
 pip install fastapi uvicorn google-genai gTTS pydub pyaudioop python-multipart
+```
+
+# Setting PSRAM #
+
+This particular dev kit has plenty of PSRAM to handle these requests and responses but you do need to activate it.
+```
+Arduino IDE ➩ Tools ➩ Change it from "Disabled" to "OPI PSRAM"
+```
