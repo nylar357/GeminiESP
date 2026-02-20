@@ -48,7 +48,7 @@ This server receives raw audio from the ESP32, sends it to Gemini, and returns a
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/yourusername/gemini-zhi.git](https://github.com/yourusername/gemini-zhi.git)
+git clone [https://github.com/nylar357/GeminiESP.git](https://github.com/nylar357/GeminiESP.git)
 cd GeminiESP/talkback.py
 
 # 2. Create a virtual environment
