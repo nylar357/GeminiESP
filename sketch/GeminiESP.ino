@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "priv_net2.4";
-const char* password = "SunriseStarbrightStinky0!";
+const char* ssid = "WIFI AP";
+const char* password = "PASSWORD";
 #include <Arduino.h>
 #include "FS.h"
 #include "SD_MMC.h"
