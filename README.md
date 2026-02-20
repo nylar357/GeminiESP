@@ -1,8 +1,8 @@
 # GeminiESP: A Gemini-Powered ESP32 Voice Assistant
 
 [![Watch the Video](https://imagedelivery.net/NpoQJ8RlE72BuvcAxq_8tw/4c0fdbd5-49ed-4dcb-5ec9-1c5a15ef4700/public)](https://customer-xesrjxb9wcc9tf16.cloudflarestream.com/54e3b813c08a8aa028cdb6bf75f0008a/watch)
-➥ Watch Video ⇮
 
+# ➥ Watch Video ⇮ #
 A DIY AI voice assistant inspired by the "Xiaozhi" robot, but powered by Google's **Gemini 1.5/2.0 Flash** models for ultra-fast conversational responses.
 
 This project replaces the traditional multi-stage cloud pipeline (ASR -> LLM -> TTS) with a streamlined **Audio-to-Audio** loop using Gemini's multimodal capabilities.
