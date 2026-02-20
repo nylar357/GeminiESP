@@ -15,7 +15,7 @@ client = genai.Client(api_key=API_KEY)
 app = FastAPI()
 
 # System instruction for the bot
-sys_instruct = "You are Xiaozhi. Keep answers short (1 sentence)."
+sys_instruct = "You are an AI voice assistant. Keep answers short (1 sentence)."
 
 @app.post("/chat")
 async def audio_chat(request: Request):
