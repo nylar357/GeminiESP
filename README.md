@@ -1,6 +1,6 @@
 # GeminiESP: A Gemini-Powered ESP32 Voice Assistant
 
-[![GeminiESP]([media/geminiesp.mp4](https://customer-xesrjxb9wcc9tf16.cloudflarestream.com/54e3b813c08a8aa028cdb6bf75f0008a/iframe?poster=https%3A%2F%2Fcustomer-xesrjxb9wcc9tf16.cloudflarestream.com%2F54e3b813c08a8aa028cdb6bf75f0008a%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600])
+[![GeminiESP](https://customer-xesrjxb9wcc9tf16.cloudflarestream.com/54e3b813c08a8aa028cdb6bf75f0008a/iframe?poster=https%3A%2F%2Fcustomer-xesrjxb9wcc9tf16.cloudflarestream.com%2F54e3b813c08a8aa028cdb6bf75f0008a%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600)]
 
 [!](https://customer-xesrjxb9wcc9tf16.cloudflarestream.com/54e3b813c08a8aa028cdb6bf75f0008a/iframe?poster=https%3A%2F%2Fcustomer-xesrjxb9wcc9tf16.cloudflarestream.com%2F54e3b813c08a8aa028cdb6bf75f0008a%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600)
 
